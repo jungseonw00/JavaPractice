@@ -1,5 +1,6 @@
 package p211026;
 
+//1부터 100까지의 합
 public class p3 {
 	
 	public static void main(String[] args) {
